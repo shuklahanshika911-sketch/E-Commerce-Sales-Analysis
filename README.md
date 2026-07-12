@@ -41,3 +41,16 @@ Lovely Professional University
 
 GitHub:
 https://github.com/shuklahanshika911-sketch
+## 📸 Dashboard Screenshots
+
+### Dashboard Overview
+![Dashboard Overview](Screenshot%202026-07-02%202111051.png)
+
+### Sales Analysis
+![Sales Analysis](Screenshot%202026-07-01%20184126.png)
+
+### Profit Analysis
+![Profit Analysis](Screenshot%202026-07-01%20191404.png)
+
+### Customer Analysis
+![Customer Analysis](Screenshot%202026-07-01%20194155.png)
